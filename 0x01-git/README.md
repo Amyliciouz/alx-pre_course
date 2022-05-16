@@ -1,1 +1,3 @@
-My Second Readme file
+Directory read me
+
+Read me updating
